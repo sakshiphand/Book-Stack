@@ -74,14 +74,3 @@ npm start
 6. Open in browser:
 http://localhost:3000
 
-🤝 Contribution
-
-Contributions are welcome!
-
-Fork the repo
-
-Create a new branch (feature-branch)
-
-Commit your changes
-
-Push and create a pull request
